@@ -87,3 +87,5 @@ temp/
 # practice
 # =========================
 practice/
+
+book/data/household_power_consumption.txt
